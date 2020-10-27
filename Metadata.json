@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 43770,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/get-azure-v2-virtual-machines/master/Get-AzureV2VM.graphrunbook",
+    "DownloadCount": 1298,
+    "Id": "Get-Azure-Version-2-8d2ba2e6",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 413,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-5-23T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "This Graphical PowerShell runbook returns all of the V2 VMs in an Azure subscription.  It takes in an optional resource group and VM name to return all VMs in a resource group, a particular VM in a resource group, or all VMs in the subscription if you don't specify parameters.",
+    "Title": "Get Azure V2 Virtual Machines",
+    "UpdatedDate": "2016-7-1T00:00:00",
+    "Url": "https://github.com/azureautomation/get-azure-v2-virtual-machines",
+    "UserTags": "Windows Azure Virtual Machines, Azure Automation, GraphicalPS"
+}
